@@ -1,0 +1,23 @@
+nav a {
+  text-decoration: none;
+}
+.active {
+  font-weight: 700;
+  text-decoration: underline;
+  color: red;
+}
+* {
+  width: 100%;
+}
+body {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 1.2rem;
+}
+h1 {
+  text-align: center;
+  background-color: aliceblue;
+}
